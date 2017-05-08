@@ -19,7 +19,7 @@ Non-vehicle data is at
 Unzip the vehicles  images in image_bank/vehicles/ 
 Unzip the non vehicles  images in image_bank/non-vehicles/
 
-#Output images are following
+# Output images are following
 
 Sample image from vehicle dataset
 ![Cars detected in a frame](output_images/test_ncar.jpg)
